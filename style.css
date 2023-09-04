@@ -55,8 +55,3 @@ body {
   background: #ff0256;
 }
 
-@media screen and (max-width: 4800px) {
- .timer{
-   margin-left: 23%;
- }
-}
