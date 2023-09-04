@@ -20,7 +20,7 @@ body {
   padding: 24px;
   border-radius: 30px;
   /* background: white; */
-  margin-left: 18%;
+  margin-left: 25%;
   margin-top: 5px;
 }
 
@@ -53,4 +53,8 @@ body {
 
 .timer__btn--stop {
   background: #ff0256;
+}
+
+@media screen and (max-width: 4800px) {
+ 
 }
