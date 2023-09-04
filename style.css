@@ -53,7 +53,7 @@ body {
 .timer__btn--stop {
   background: #ff0256;
 }
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 4800px) {
   body {
   background-color: blue;
   }
